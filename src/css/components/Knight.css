@@ -1,0 +1,10 @@
+div {
+  font-size: 25px;
+  font-weight: bold;
+  cursor: move;
+}
+
+img{
+  height: 50px;
+  width: 50px;
+}
